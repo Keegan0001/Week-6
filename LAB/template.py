@@ -2,8 +2,8 @@
 RECORD CHECK  -  my version
 ===========================
 
-Name  :
-Lane  :  AI / Cyber / IT      (delete two)
+Name  : Keegan Senekal 
+Lane  :  AI      (delete two)
 Date  :
 
 Run it:   python template.py
@@ -18,6 +18,10 @@ import pandas as pd
 # 1. Read your data file with pd.read_csv(). Make your own CSV, header row
 #    plus at least 5 data rows: label,value,limit (or your lane's own field
 #    names - same shape, different words).
+
+import pandas as pd 
+
+
 
 df = None   # replace with pd.read_csv("your_file.csv")
 
